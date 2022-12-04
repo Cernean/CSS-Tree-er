@@ -11,12 +11,11 @@
   transform: translate(-50%, -50%);
   color: white;
 }
-
-nav {
-  display: none;
+ul {
+  display: inline;
 }
 
 
-/* img {
+/*img {
   width: 100px;
-} */
+} /*
